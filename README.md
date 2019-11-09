@@ -8,7 +8,7 @@ K-Number of entires in array of a given root key
 
 The time complexity would be O(N.M.K). Under the given test cases N and M are negligible O(K).
 
-I have used to Windows OS to build and run the modules.
+I have used Windows and Linux Python 3 to run and test the modules.
 
 ## To run the program,
 
