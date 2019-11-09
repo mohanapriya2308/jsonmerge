@@ -10,7 +10,7 @@ The time complexity would be O(N.M.K). Under the given test cases N and M are ne
 
 I have used to Windows OS to build and run the modules.
 
-##To run the program,
+## To run the program,
 
 1.For the given base case output, run `python jsonmerge.py` and merged file will be present in the input folder.
 
