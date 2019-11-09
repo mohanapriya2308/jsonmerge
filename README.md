@@ -8,6 +8,12 @@ K-Number of entires in array of a given root key
 
 The time complexity would be O(N.M.K). Under the given test cases N and M are negligible O(K)
 
+To run the program,
+
+1.For the given base case output, run jsonmerge.py and merged file will be present in the input folder.
+
+2.To test other testcases,run testjsonmerge.py and respective output is present in the respective input files.
+
 Consider a the following JSON files:
 
 Data1.json contains -
